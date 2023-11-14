@@ -2,5 +2,5 @@
   "functionName": "helloworld",
   "runtime": "python3.10",
   "handler": "handler.hello",
-  "role": "arn:aws:iam::912651838869:user/devops-iam-user"
+  "role": "arn:aws:iam::912651838869:role/Lambda_Execution_Role"
 }
